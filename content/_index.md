@@ -5,7 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-
   - block: markdown
     content:
       title: '' 
@@ -34,7 +33,6 @@ sections:
         <img src="img/serpent.png" alt="Glashow's serpent" width="200" align="left" style="margin:0px 50px"/>
         Cosmology and particle physics describe nature at its largest and shortest distances, respectively. Both are intimately linked in the early universe with its extreme conditions of high temperature, densities and energies. This is depicted in the cosmic ouroboros. Our <a href="research">research</a> is focused on different aspects of this connection.
 
-
   - block: people
     content:
       title: Meet the Team
@@ -58,7 +56,6 @@ sections:
       title:
       subtitle: ''
       text: |
-
 
         Sydney-CPPC organizes a regular seminar series via [Zoom](https://uni-sydney.zoom.us/j/610935631) which is open to everyone. The usual times for the seminars are Thursdays at 16:00 Sydney time. Just click the link above to connect. The recordings of most of the seminars are available via our [Youtube channel](https://www.youtube.com/channel/UCtVYU6uw6Xu1UWq6OvLbpvg).
 
