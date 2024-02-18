@@ -1,21 +1,22 @@
 ---
 # Display name
-title: Weihang (Charlie) Zhang
-first_name: Weihang
-last_name: Zhang
+title: Harish Potti
+first_name: Harish
+last_name: Potti
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: UNSW Sydney
-  url: "https://physics.unsw.edu.au"
+- name: University of Sydney
+  url: "https://sydney.edu.au/science/schools/school-of-physics.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+#bio: My research interests include neutrino physics and flavour physics.
 
 #education:
 #  courses:
@@ -55,6 +56,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Research Associates
 ---
-
