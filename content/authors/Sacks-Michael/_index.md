@@ -1,8 +1,8 @@
 ---
 # Display name
-title: Michael Saks
+title: Michael Sacks
 first_name: Michael
-last_name: Saks
+last_name: Sacks
 # Is this the primary user of the site?
 superuser: false
 
@@ -55,6 +55,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+#- Students
 ---
 
