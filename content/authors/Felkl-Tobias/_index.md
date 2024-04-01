@@ -56,7 +56,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Associates
+#- Research Associates
+- Former Members
 ---
 ### Research Interests
 Tobias is broadly interested in open questions regarding the Standard Model of Particle Physics. He has recently been working in flavour physics, with an emphasis on neutrino mass models and the observed anomalies in B-meson decays. Tobias's PhD supervisor was [Dr. Michael Schmidt](http://www.sydney-cppc.org/author/michael-a-schmidt).
