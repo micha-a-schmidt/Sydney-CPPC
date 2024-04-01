@@ -7,7 +7,7 @@ last_name: Pierobon
 superuser: false
 
 # Role/position
-#role: PhD student
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -58,8 +58,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
-- Former Members
+#- Alumni
+#- Former Members
+- Research Associates
 ---
 
 ### Research interests
