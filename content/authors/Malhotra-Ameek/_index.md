@@ -7,12 +7,14 @@ last_name: Malhotra
 superuser: false
 
 # Role/position
-#role: PhD student
+role: Postdoc
+#PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: UNSW Sydney
-  url: "https://physics.unsw.edu.au"
+- name: Swanswa U
+#UNSW Sydney
+#  url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

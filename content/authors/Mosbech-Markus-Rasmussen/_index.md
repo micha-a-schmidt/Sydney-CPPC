@@ -7,12 +7,14 @@ last_name: Rasmussen Mosbech
 superuser: false
 
 # Role/position
-#role: PhD student
+role: Postdoc
+#PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sydney
-  url: "https://sydney.edu.au/science/schools/school-of-physics.html"
+- name: RWTH Aachen
+#University of Sydney
+#  url: "https://sydney.edu.au/science/schools/school-of-physics.html"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: XXX
