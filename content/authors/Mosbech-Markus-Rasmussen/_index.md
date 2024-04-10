@@ -7,7 +7,7 @@ last_name: Rasmussen Mosbech
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoc at RWTH Aachen
 #PhD student
 
 # Organizations/Affiliations

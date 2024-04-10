@@ -8,7 +8,8 @@ last_name: Balaji
 superuser: false
 
 # Role/position
-#role: PhD student
+role: Postdoc at LPTHE
+#PhD student
 
 # Organizations/Affiliations
 organizations:

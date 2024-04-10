@@ -7,7 +7,7 @@ last_name: Upadhye
 superuser: false
 
 # Role/position
-role: Associate Research Professor
+role: Associate Research Professor at Yunnan University
 #Research Associate
 # (Research Associate)
 

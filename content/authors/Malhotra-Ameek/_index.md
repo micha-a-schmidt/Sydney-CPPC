@@ -7,7 +7,7 @@ last_name: Malhotra
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoc at Swansea U
 #PhD student
 
 # Organizations/Affiliations

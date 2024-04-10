@@ -7,7 +7,8 @@ last_name: Saavedra
 superuser: false
 
 # Role/position
-#role: University of Sydney
+role: Data Scientist
+#University of Sydney
 
 # Organizations/Affiliations
 organizations:

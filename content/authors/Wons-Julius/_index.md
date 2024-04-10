@@ -11,8 +11,9 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: UNSW Sydney
-  url: "https://physics.unsw.edu.au"
+- name: Private Sector
+#UNSW Sydney
+#  url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: XXX

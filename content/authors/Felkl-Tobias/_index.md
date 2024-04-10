@@ -8,12 +8,14 @@ last_name: Felkl
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Data Scientist
+#Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: UNSW Sydney
-  url: "https://physics.unsw.edu.au"
+- name: Private Sector
+#UNSW Sydney
+#  url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include neutrino physics and flavour physics.

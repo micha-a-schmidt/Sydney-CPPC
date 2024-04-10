@@ -7,12 +7,14 @@ last_name: Picker
 superuser: false
 
 # Role/position
-#role: PhD student
+role: Postdoct at UCLA
+#PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sydney
-  url: "https://sydney.edu.au/science/schools/school-of-physics.html"
+- name: UCLA
+#University of Sydney
+#  url: "https://sydney.edu.au/science/schools/school-of-physics.html"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: XXX

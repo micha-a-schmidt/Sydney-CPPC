@@ -8,13 +8,15 @@ last_name: Chen
 superuser: false
 
 # Role/position
-#role: Research Associate 
+role: Quant at Macquarie Bank
+#Research Associate 
 # role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: UNSW Sydney
-  url: "https://physics.unsw.edu.au"
+- name: Macquarie Bank 
+#UNSW Sydney
+#  url: "https://physics.unsw.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: XXX
