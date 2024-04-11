@@ -8,7 +8,7 @@ superuser: false
 
 # Role/position
 #role: PhD student
-
+role: Data Scientist
 # Organizations/Affiliations
 organizations:
 - name: Private Sector
