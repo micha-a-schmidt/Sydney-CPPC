@@ -8,7 +8,7 @@ last_name: Lima Lichtenstein
 superuser: false
 
 # Role/position
-role: Research Associate
+#role: Research Associate
 
 # Organizations/Affiliations
 organizations:
