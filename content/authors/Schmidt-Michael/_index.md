@@ -7,8 +7,7 @@ last_name: Schmidt
 superuser: false
 
 # Role/position
-role: Senior Lecturer
-# (Senior Lecturer)
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
