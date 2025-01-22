@@ -7,7 +7,7 @@ last_name: Beocanin
 superuser: false
 
 # Role/position
-role: Honours student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
