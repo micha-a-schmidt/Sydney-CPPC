@@ -1,14 +1,13 @@
 ---
 # Display name
-title: Theresa Fruth 
-first_name: Theresa
-last_name: Fruth
-
+title: Zachary Greenfield
+first_name: Zachary
+last_name: Greenfield
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Lecturer 
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -17,21 +16,12 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 #bio: XXX
-#bio: My research interests include neutrino physics, dark matter, flavour physics and in general physics beyond the Standard Model.
-
-#Currently my research activities are focussed on:
-#- (lepton) flavour physics
-#- dark matter
-#- neutrino physics
 
 #education:
 #  courses:
-#  - course: PhD in Theoretical particle physics
-#    institution: TU Munich
-#    year: 2008
-#  - course: Physik Diplom
-#    institution: TU Munich
-#    year: 2004
+#  - course: MSc in Physics
+#    institution: University of Jena
+#    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -40,13 +30,13 @@ organizations:
 #social:
 #- icon: envelope
 #  icon_pack: fas
-#  link: '#contact'  # mailto:m.schmidt@unsw.edu.au'  # For a direct email link, use "mailto:test@example.org". #contact
+#  link: 'mailto:t.felkl@student.unsw.edu.au'  # For a direct email link, use "mailto:test@example.org". #contact
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/micha_a_schmidt
 #- icon: inspire
 #  icon_pack: ai
-#  link: https://inspirehep.net/authors/1002526
+#  link: https://inspirehep.net/author/profile/M.A.Schmidt.2
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=bPztMIoAAAAJ
@@ -65,6 +55,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Academic Staff
-#- Vistor
+- Students
 ---
+

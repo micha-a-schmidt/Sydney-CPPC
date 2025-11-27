@@ -11,8 +11,9 @@ role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sydney
-  url: "https://sydney.edu.au/science/schools/school-of-physics.html"
+- name: LMU Munich
+#- name: University of Sydney
+#  url: "https://sydney.edu.au/science/schools/school-of-physics.html"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: XXX
@@ -64,7 +65,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Associates
+- Alumni
+- Former Members
+#- Research Associates
 #- Vistor
 ---
 
