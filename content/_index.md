@@ -57,7 +57,7 @@ sections:
       subtitle: ''
       text: |
 
-        Sydney-CPPC organizes a regular seminar series via [Zoom](https://uni-sydney.zoom.us/j/2980559069?pwd=irjWSRVb2LejlP1MBbomM2E42uWXz8.1) (passcode "CPPC") which is open to everyone. The usual times for the seminars are Thursdays at 16:00 Sydney time. Just click the link above to connect. The recordings of most of the seminars are available via our [Youtube channel](https://www.youtube.com/channel/UCtVYU6uw6Xu1UWq6OvLbpvg).
+        Sydney-CPPC organizes a regular seminar series via Zoom. See the email announcement or the InspireHEP entry for the Zoom link. Everyone is welcome to join the seminars. The usual times for the seminars are Thursdays at 11:00 or 16:00 Sydney time. The recordings of many seminars are available via our [Youtube channel](https://www.youtube.com/channel/UCtVYU6uw6Xu1UWq6OvLbpvg).
 
         Future and past seminars are listed on our [seminar indico page](https://indico.global/category/1097/).
         Similarly, future and past events are listed on [the events page](https://indico.global/category/1088/). 
