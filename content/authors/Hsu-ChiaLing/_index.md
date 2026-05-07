@@ -7,7 +7,8 @@ last_name: Hsu
 superuser: false
 
 # Role/position
-role: DECRA fellow
+role: Quantum researcher 
+# DECRA fellow
 
 # Organizations/Affiliations
 organizations:
