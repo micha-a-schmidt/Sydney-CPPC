@@ -1,14 +1,13 @@
 ---
 # Display name
-title: Nadia Toutounji
-first_name: Nadia
-last_name: Toutounji
+title: Ji Hong Shin
+first_name: Ji Hong
+last_name: Shin
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Data Scientist in Health
-# Research Associate
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +55,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
-- Former Members
+- Students
 ---
 
