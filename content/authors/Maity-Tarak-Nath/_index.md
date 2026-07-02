@@ -7,7 +7,7 @@ last_name: Maity
 superuser: false
 
 # Role/position
-role: Research Associate
+role: Faculty at Saha Institute
 
 # Organizations/Affiliations
 organizations:
@@ -64,8 +64,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Associates
+#- Research Associates
 #- Vistor
+- Alumni
+- Former Members
 ---
 
 
