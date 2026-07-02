@@ -7,7 +7,7 @@ last_name: Lackner
 superuser: false
 
 # Role/position
-#role: PhD student
+role: Lecturer at UNSW College
 
 # Organizations/Affiliations
 organizations:
