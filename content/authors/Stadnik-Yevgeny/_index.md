@@ -7,7 +7,7 @@ last_name: Stadnik
 superuser: false
 
 # Role/position
-# role: DECRA fellow
+role: DECRA fellow
 # (Research Associate)
 
 # Organizations/Affiliations
